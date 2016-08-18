@@ -1,0 +1,17 @@
+{
+    "name": "macondo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "John Vargas Beltr\u00e1n"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/macondo-bower.git"
+    },
+    "description": "Macondo font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
